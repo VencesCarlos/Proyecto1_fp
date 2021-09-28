@@ -6,4 +6,5 @@ int main(){
     printf("\nHola mundo :3");
     printf("Es una prueba");
     printf("Otra prueba ");
+    printf("o");
 }
